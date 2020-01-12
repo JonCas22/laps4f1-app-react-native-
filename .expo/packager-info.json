@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1200,
+  "expoServerNgrokUrl": "https://cr-tev.joncas2.awesomeproject.exp.direct",
+  "packagerNgrokUrl": "https://packager.cr-tev.joncas2.awesomeproject.exp.direct",
+  "ngrokPid": 9796,
+  "devToolsPort": 19002
+}
